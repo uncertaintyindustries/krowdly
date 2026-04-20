@@ -1,6 +1,6 @@
 # Krowdly
 
-Reddit + Nairaland hybrid forum platform built with React + Supabase.
+Forum platform built with React + Supabase.
 
 ## Tech Stack
 
